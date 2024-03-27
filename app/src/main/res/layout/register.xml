@@ -10,7 +10,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:background="@drawable/bkg"
-    tools:context=".Login">
+    tools:context=".Register">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
